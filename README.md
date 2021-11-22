@@ -1,6 +1,6 @@
 # Blockchain Breeding Grounds: Asia’s advance over the USA and Europe
 This project contains the data and code used in the paper:
-Denter, N. M. (2021). Blockchain breeding grounds: Asia's advance over the USA and Europe. World Patent Information. doi:10.1016/j.wpi.2021.102082.
+Denter, Nils M. (2021): Blockchain breeding grounds: Asia's advance over the USA and Europe. In World Patent Information 67. DOI: 10.1016/j.wpi.2021.102082.
 
 To reproduce the results, first, you need to download all files in the PATSTAT_input_data folder.
 
